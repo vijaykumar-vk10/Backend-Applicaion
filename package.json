@@ -1,5 +1,5 @@
 {
-  "name": "registration",
+  "name": "reports",
   "version": "1.0.0",
   "description": "Registration service for Clique",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "tharunprabhakaran",
+  "author": "vijaykumar",
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
