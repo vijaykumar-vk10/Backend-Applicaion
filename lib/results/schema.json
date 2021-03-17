@@ -1,0 +1,37 @@
+{
+   "_id" : "heloo",
+    "section": "D",
+    "classID": "Number",
+    "assismentID": "",
+    "postedDate": "",
+    "teacherID": "",
+    "studentID": "",
+    "result": {
+      "subjectID": {
+        "marks": 12,
+        "fullMark": 100,
+        "review": "",
+        "passPercentage": ""
+      },
+      "subjectID1": {
+        "marks": 12,
+        "fullMark": 100,
+        "review": "",
+        "passPercentage": ""
+      },
+      "subjectID2": {
+        "marks": 12,
+        "fullMark": 100,
+        "review": "",
+        "passPercentage": ""
+      },
+      "subjectID3": {
+        "marks": 12,
+        "fullMark": 100,
+        "review": "",
+        "passPercentage": ""
+      }
+    }
+  }
+
+

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+      "timeStamp": "2020-01-20",
+      "service": "registration",
+      "subService": "updateStudent"
+    },
+    "payLoad": {
+      "name": "Tharun",
+      "dob": "2020-01-01",
+      "gender": "string",
+      "schoolID": "string",
+      "classID": "string",
+      "country": "string",
+      "city": "string",
+      "address": "string",
+      "bloodGroup": "string",
+      "allergies": "string",
+      "medicalCondition": "string",
+      "joinedDate": "2020-12-01"
+    },
+    "payLoadType": "object", 
+    "status": "String",
+    "statusCode": "String",
+    "errorDetail": {
+      "code": "string",
+      "description": "string"
+    }
+  }
