@@ -1,0 +1,7 @@
+Description 
+This application saves the user data to mongodb with jwt authentication.
+This uses winston logger to log the data.
+It also uses JOI to validate the incoming requests to the server.
+Run the project
+npm install - to install the dependencies
+node server.js - to run the app
